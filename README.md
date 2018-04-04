@@ -58,7 +58,7 @@ Here, installing Python 3.5 along with opencv 3.3, Keras Using Anaconda.
              pip install  xxx     # xxx is the name of the package
          
          
-    Step 4: Installing C++ compilers (like MinGW-w64)
+   Step 4: Installing C++ compilers (like MinGW-w64)
   ---------------------------------------------------
        
        - Download the MinGW-64 compiler from the official site http://www.mingw.org/
@@ -80,7 +80,7 @@ Here, installing Python 3.5 along with opencv 3.3, Keras Using Anaconda.
        - Press 'new'  --> simply paste this path "“C:\deeplearning\mingw\mingw64\bin"  (without quotes) 
       
       
-    Step 5: Installing Git
+  Step 5: Installing Git
   -------------------------    
       
       - We will use git for cloning the reprository from github or any other sources.
@@ -90,7 +90,7 @@ Here, installing Python 3.5 along with opencv 3.3, Keras Using Anaconda.
       - Simply, Install the Git package.
       
     
-    Step 6: Installing Tensorflow
+  Step 6: Installing Tensorflow
   --------------------------------
       
       - TensorFlow is an open-source software library for dataflow programming across a range of tasks. It is 
@@ -104,7 +104,7 @@ Here, installing Python 3.5 along with opencv 3.3, Keras Using Anaconda.
       
                     import tensorflow 
       
-    Step 7: Installing Keras
+  Step 7: Installing Keras
   ---------------------------
   
        - open up a anaconda command prompt type the following
@@ -116,7 +116,7 @@ Here, installing Python 3.5 along with opencv 3.3, Keras Using Anaconda.
                import keras
        
 
-    Step 8: Installing OpenCV 3.3
+  Step 8: Installing OpenCV 3.3
   ----------------------------------
         
         - open up a anaconda command prompt type the following
@@ -131,7 +131,7 @@ Here, installing Python 3.5 along with opencv 3.3, Keras Using Anaconda.
   
   
     
-    Step 9: Installing additional packages
+  Step 9: Installing additional packages
   -----------------------------------------
   
       - Install the additional packages such as imutils, mahotas by the using pip
